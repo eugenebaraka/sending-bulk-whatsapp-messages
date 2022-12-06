@@ -1,5 +1,12 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
+from selenium.webdriver.firefox.service import Service
+from selenium.webdriver.firefox.options import Options as FirefoxOptions
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+import pyperclip
+import time
 
 
 browser = webdriver.Firefox(executable_path=r"C:\Users\eugen\OneDrive - McGill University\Desktop\Projects\whatsapp messages")
@@ -43,5 +50,3 @@ for contact in contacts:
 
 
     time.sleep(5)
-
-
