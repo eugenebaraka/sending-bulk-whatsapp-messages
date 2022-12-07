@@ -8,8 +8,8 @@ from selenium.webdriver.support import expected_conditions as EC
 import pyperclip
 import time
 
-
-browser = webdriver.Firefox(executable_path=r"C:\Users\eugen\OneDrive - McGill University\Desktop\Projects\whatsapp messages")
+s = Service("./geckodriver.exe")
+browser = webdriver.Firefox(service = s)
 browser.maximize_window()
 browser.get('https://web.whatsapp.com/')
 
@@ -40,13 +40,17 @@ for contact in contacts:
     person_name = browser.find_element(By.XPATH, send_xpath)
     person_name.click()
     message_box_xpath = '//div[@contenteditable="true"][@data-tab="10"]'
-    message_input = browser.find_element_by_xpath(message_box_xpath)
+    message_input = browser.find_element(by=By.XPATH, value=message_box_xpath)
 
-    time.sleep(5)
+    time.sleep(10)
 
     pyperclip.copy(message)
     message_input.send_keys(Keys.CONTROL, 'v')
     message_input.send_keys(Keys.ENTER)
 
 
+<<<<<<< Updated upstream
     time.sleep(5)
+=======
+    time.sleep(10)
+>>>>>>> Stashed changes

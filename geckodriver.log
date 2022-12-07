@@ -715,3 +715,104 @@ JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: 
 [Child 17836, MediaDecoderStateMachine #6] WARNING: 2e5acf16890 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
 [Child 17836, MediaDecoderStateMachine #6] WARNING: 2e5acf16890 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
 [Child 17836, MediaDecoderStateMachine #6] WARNING: 2e5ac4ea780 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+1670380357959	geckodriver	INFO	Listening on 127.0.0.1:55372
+1670380358010	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55373" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kp/3kdplpqs5db_hds714vbhvnc0000gp/T/rust_mozprofileKAW5YJ"
+1670380358599	Marionette	INFO	Marionette enabled
+1670380358646	Marionette	INFO	Listening on port 55388
+Read port: 55388
+WebDriver BiDi listening on ws://127.0.0.1:55373
+1670380358826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kp/3kdplpqs5db_hds714vbhvnc0000gp/T/rust_mozprofileKAW5YJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55373/devtools/browser/8ffd8731-93c3-4eb3-9425-165033934a5b
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+1670380571462	geckodriver	INFO	Listening on 127.0.0.1:55517
+1670380571974	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55518" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kp/3kdplpqs5db_hds714vbhvnc0000gp/T/rust_mozprofilewiDQKg"
+1670380572470	Marionette	INFO	Marionette enabled
+1670380572635	Marionette	INFO	Listening on port 55528
+WebDriver BiDi listening on ws://127.0.0.1:55518
+Read port: 55528
+1670380572765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kp/3kdplpqs5db_hds714vbhvnc0000gp/T/rust_mozprofilewiDQKg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55518/devtools/browser/95761d79-8ed8-4318-ba7f-4275bb0666b4
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+1670380887228	geckodriver	INFO	Listening on 127.0.0.1:55747
+1670380887751	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55748" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kp/3kdplpqs5db_hds714vbhvnc0000gp/T/rust_mozprofileGCSyZy"
+1670380888260	Marionette	INFO	Marionette enabled
+1670380888298	Marionette	INFO	Listening on port 55755
+Read port: 55755
+WebDriver BiDi listening on ws://127.0.0.1:55748
+1670380888477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kp/3kdplpqs5db_hds714vbhvnc0000gp/T/rust_mozprofileGCSyZy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55748/devtools/browser/82ca2713-778b-46a8-90d3-fe0061fabf9d
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+1670381667198	geckodriver	INFO	Listening on 127.0.0.1:56099
+1670381667716	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56100" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kp/3kdplpqs5db_hds714vbhvnc0000gp/T/rust_mozprofile6reBlJ"
+1670381668205	Marionette	INFO	Marionette enabled
+1670381668244	Marionette	INFO	Listening on port 56107
+Read port: 56107
+WebDriver BiDi listening on ws://127.0.0.1:56100
+1670381668524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kp/3kdplpqs5db_hds714vbhvnc0000gp/T/rust_mozprofile6reBlJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56100/devtools/browser/1f3b77a1-c90b-476d-9aad-981f6933964f
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+1670381730892	Marionette	INFO	Stopped listening on port 55388
+1670381734097	Marionette	INFO	Stopped listening on port 55528
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670381736565	Marionette	INFO	Stopped listening on port 55755
+1670381747146	Marionette	INFO	Stopped listening on port 56107
+1670381846106	geckodriver	INFO	Listening on 127.0.0.1:56200
+1670381846627	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56201" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kp/3kdplpqs5db_hds714vbhvnc0000gp/T/rust_mozprofilerGb7L9"
+1670381847092	Marionette	INFO	Marionette enabled
+1670381847129	Marionette	INFO	Listening on port 56206
+Read port: 56206
+WebDriver BiDi listening on ws://127.0.0.1:56201
+1670381847352	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kp/3kdplpqs5db_hds714vbhvnc0000gp/T/rust_mozprofilerGb7L9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56201/devtools/browser/367f9c03-836c-465a-85fa-feeb15566243
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670382201326	geckodriver	INFO	Listening on 127.0.0.1:56353
+1670382201844	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56354" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kp/3kdplpqs5db_hds714vbhvnc0000gp/T/rust_mozprofilez4EyOf"
+1670382202313	Marionette	INFO	Marionette enabled
+1670382202355	Marionette	INFO	Listening on port 56359
+Read port: 56359
+WebDriver BiDi listening on ws://127.0.0.1:56354
+1670382202578	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kp/3kdplpqs5db_hds714vbhvnc0000gp/T/rust_mozprofilez4EyOf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56354/devtools/browser/aa6117a8-7fda-4598-8c20-7bcdf7f2a0f9
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2353))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2353))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
